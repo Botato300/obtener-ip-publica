@@ -4,6 +4,5 @@
   
   ## Como compilar usando MinGW
   Lo relevante aquí es el parametro -lwinhttp, que es una librería de la API de windows que el programa necesita para hacer peticiones HTTP.
-  
   ```g++ main.cpp -o main -lwinhttp```
   
