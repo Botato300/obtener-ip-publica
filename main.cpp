@@ -47,7 +47,7 @@ int main()
             }
             else
             {
-                std::cout<<pszOutBuffer;
+                std::cout<<"Tu IP es: "<<pszOutBuffer;
             }
         
             delete[] pszOutBuffer;
